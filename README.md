@@ -12,6 +12,10 @@ philosophy. Like dwm, dwl is:
 - One C source file (or a very small number) configurable via `config.h`
 - Tied to as few external dependencies as possible
 
+# Applied patches
+1. [smartborders](https://codeberg.org/dwl/dwl-patches/src/branch/main/patches/smartborders)
+2. [kblayout](https://codeberg.org/dwl/dwl-patches/src/branch/main/patches/kblayout)
+
 ## Getting Started:
 
 ### Latest semi-stable [release]
